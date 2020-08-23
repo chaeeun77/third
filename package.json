@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chaeeun77/third/issues"
   },
-  "homepage": "https://github.com/chaeeun77/third#readme"
+  "homepage": "https://github.com/chaeeun77/third#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
